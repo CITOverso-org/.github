@@ -53,3 +53,9 @@ citoverso/
 * **¿Buscas servicios analíticos o consultoría?** Escríbenos para evaluar tu proyecto o revisa nuestras opciones de colaboración.
 * **¿Te interesa tomar un curso?** Mantente al pendiente de nuestras próximas convocatorias en este perfil o consulta los repositorios educativos.
 * **¿Quieres contribuir al código abierto?** ¡Las contribuciones son bienvenidas! Revisa nuestros repositorios públicos, haz un *Fork* y abre un *Pull Request*.
+
+---
+
+### 🌐 Conectemos
+* 📧 Correo de contacto: citoverso@gmail.com
+* 💼 Sitio web / Plataforma educativa: 
