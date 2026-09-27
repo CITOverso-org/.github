@@ -29,7 +29,7 @@ Creemos en la democratización del conocimiento científico. Diseñamos e impart
 Nuestras herramientas de cabecera para investigación, producción y docencia incluyen:
 * **R / Bioconductor:** `FlowCore`, `Seurat`, `ggplot2`, `DESeq2`.
 * **Python:** `Pandas`, `NumPy`, `Scikit-learn`, `Scanpy`, `FlowCytometryTools`.
-* **Control y Automatización:** Git, GitHub, Markdown.
+* **Control y Automatización:** Git, GitHub, Quarto.
 
 ---
 
@@ -59,4 +59,11 @@ citoverso/
 ### 🌐 Conectemos
 * 📧 Correo de contacto: citoverso@gmail.com
 * 💼 Sitio web / Plataforma educativa:
-  
+
+---
+
+<br>
+
+<div align="center">
+  <sub>Hecho con 💙 por CITOverso</sub>
+</div>
