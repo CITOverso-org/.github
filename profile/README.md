@@ -4,6 +4,8 @@
 
 El **CITOverso** es un espacio multidisciplinario de código abierto y centro de alta especialidad bioinformática. Nos especializamos en el procesamiento avanzado e interpretación de datos provenientes principalmente de **citometría de flujo** y diversas técnicas de **biología molecular**. 
 
+![CITOverso](CITOverso.mp4)
+
 Más allá del desarrollo de código, funcionamos como un puente entre la ciencia de datos y la investigación experimental, ofreciendo **servicios analíticos profesionales** y **programas de formación académica y técnica** utilizando principalmente **R** y **Python**.
 
 ---
